@@ -6,6 +6,7 @@ public class JavaProject{
     System.out.println("Kaitlin is cool.");
     System.out.println("Kaitlin still understands how GitHub works!!!");
     System.out.println("Oh shiiiiiiit Java queen");
+    //Shrek Wazoski
 
   }
 }
